@@ -1,2 +1,2 @@
 puts "Hello Ruby!"
-puts "Hello Ruby講義！git "
+puts "Hello Ruby講義！"
