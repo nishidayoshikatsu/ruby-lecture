@@ -10,8 +10,10 @@ def fizz_buzz(num)
     end
 end
 
-a=15;b=5;c=3;d=11
-fizz_buzz(a)
-fizz_buzz(b)
-fizz_buzz(c)
-fizz_buzz(d)
+fizz_buzz(1)
+fizz_buzz(2)
+fizz_buzz(3)
+fizz_buzz(4)
+fizz_buzz(5)
+fizz_buzz(6)
+fizz_buzz(15)
